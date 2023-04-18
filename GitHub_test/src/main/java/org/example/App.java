@@ -1,7 +1,7 @@
 package org.example;
 
 /**
- * Hello world!
+ * Witaj!
  *
  */
 public class App 
